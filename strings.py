@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # операции со строками
 line = "string "
 print (line)
